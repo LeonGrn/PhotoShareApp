@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>418931623402-hfnoe9mrs6gud7pi7k0e2ore4iq0dbe5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.418931623402-hfnoe9mrs6gud7pi7k0e2ore4iq0dbe5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA8XBKty8kg3CSMSUTE4zOcvOqUvFka_5k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>418931623402</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FunnyEagle.PhotoShareApp</string>
+	<key>PROJECT_ID</key>
+	<string>photoshareapp-e81b2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photoshareapp-e81b2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:418931623402:ios:51d9dc755a14c78fa55e93</string>
+</dict>
+</plist>
